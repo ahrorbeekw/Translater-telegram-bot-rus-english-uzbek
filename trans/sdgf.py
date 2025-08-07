@@ -23,7 +23,7 @@ class Tarjima(StatesGroup):
 
 
 
-TOKEN = "6990681753:AAGKY2DjwI8hWyRX9s5l3L_8odPsEuA0MwQ"
+TOKEN = "Bot_token"
 
 # All handlers should be attached to the Router (or Dispatcher)
 
@@ -84,3 +84,4 @@ if __name__ == "__main__":
 
 
 #pip install googletrans==3.1.0a0
+
